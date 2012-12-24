@@ -1,4 +1,4 @@
-lzw.rb
+LZW.rb
 ======
 
 This is an Ruby implementation of the Lemple-Ziv-Welch compression algorithm. It was a assignment project when taking the course in college.
